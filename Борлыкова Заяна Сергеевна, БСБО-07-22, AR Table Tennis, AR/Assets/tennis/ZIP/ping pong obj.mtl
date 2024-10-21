@@ -1,0 +1,110 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.07.2022 02:42:58
+
+newmtl green
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\green.png
+	map_Kd C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\green.png
+
+newmtl aluminum
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\aluminum.jpg
+	map_Kd C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\aluminum.jpg
+
+newmtl plastic
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\Outdoor chair 2\3DMax\material\plastic.jpg
+	map_Kd C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\Outdoor chair 2\3DMax\material\plastic.jpg
+
+newmtl grey
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\grey.png
+	map_Kd C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\grey.png
+
+newmtl fabric
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\fabric 1.jpg
+	map_Kd C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\fabric 1.jpg
+
+newmtl yellow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\yellow.jpg
+	map_Kd C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\yellow.jpg
+
+newmtl wire_204204204
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8000 0.8000 0.8000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl red
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\red.png
+	map_Kd C:\Users\lenovo\Desktop\Arch Expert\1-product for sketchfab\ping pong\3DMax\material\red.png
